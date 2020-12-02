@@ -1,6 +1,6 @@
 ## Create a function which return true if given input is in the array
 ## Given an array of firstname and an array of last name. First check both array size is equal or not, if equal then make third array which is two dimensional array like
-[['maryam jameel'], ['habiba sultan']......]
+[['maryam khan'], ['hira khan']......]
 ## Make a TODO
 ### Create an empty array with the name is courses. ```example: var courses=[] ``
 ### Get the 5-course name from the user, example: var course1 =prompt("course 1", "computer")
