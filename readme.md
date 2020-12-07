@@ -3,3 +3,5 @@
 <https://github.com/fazzyA/Javascript-ES6-Excercises/blob/master/JS-Fundamentals-Excercises.md>
 ### JS Arrays
 <https://github.com/fazzyA/Javascript-ES6-Excercises/blob/master/JS-Arrays-Excercises.md>
+### JS Fuctions
+<https://github.com/fazzyA/Javascript-ES6-Excercises/blob/master/JS-Functions-Excercises>
