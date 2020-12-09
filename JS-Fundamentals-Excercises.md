@@ -1,4 +1,4 @@
-#JS Fundamental Assinments
+#JS Fundamental Assignments
 ## 1 Write a program to display alert with your name and class on next line.(use line break)
 ## 2 Declare a variable birthYear and assign your birthyear in this variable and alert the type of the variable like this 'type of birth year is number'
 ##3 Display in the browser  a. A heading stating “Rules for naming JS variables”
