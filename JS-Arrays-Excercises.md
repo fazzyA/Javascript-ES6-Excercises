@@ -20,5 +20,10 @@
  ## Write a JavaScript function that reverse a number. 
 Example x = 32243;
 Expected Output : 34223
-##
+## Suppose the array is ['a', 'b', 'c', 'd', 'e']. You have to make substr of length 4. the function should take array as input and return count of substr made and all the substr
+Input: ['a', 'b', 'c', 'd', 'e', 'f']
+Output: abcd, bcde, cdef
 
+## Write a function to count all the elements of two dimensional arrays [[1, 2, 3], [3, 1,7], [5, 7, 9]]. count all elements of subarray and return max number.
+Input: [[1, 2, 3], [3, 1,7], [5, 7, 9]]
+Output: max result is 21 which comes from 5+7+9

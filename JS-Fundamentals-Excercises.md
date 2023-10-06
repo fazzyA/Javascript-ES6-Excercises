@@ -25,5 +25,11 @@
 ## 17 Write a JavaScript function to format a number up to specified decimal places. Go to the editor  Test Data :  console.log(decimals(2.100212, 2));  //"2.10"  console.log(decimals(2.100212, 3)); //2.100  console.log(decimals(2100, 2)); // 2100.00
 ## 18 write a function that generates random number between given two inputs
 ## 19 write a function that generates number between 1-10 and find the item in array witrh index of this number.  for example if random number 5 is generated it will return item in array with 5 index.  [11, 22 , 33, 44, 55, 66, 77, 88, 99,10] "your item at index 5 is 66"
-
-
+## What is logged to the console here?
+### const a = 5;
+### const b = 10;
+### console.log(a > 0 && b > 0);
+### console.log(a == 5 && b == 4);
+### console.log(true ||false);
+### console.log(a == 3 || b == 10);
+### console.log(a == 3 || b == 7);
